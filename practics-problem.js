@@ -39,3 +39,27 @@ var divisionNumber = 5;
 
 var remainder = number % divisionNumber;
 console.log(remainder)
+
+// declear problem pHero
+// Var price = 33;
+var price = 33;
+
+// var name - shabana 
+var name = "shabana";
+
+// var boxName = 'Cocola;
+var boxName = 'Cocola';
+
+// var 88_price = 33;
+var price_88 = 33;
+
+// var enum =-1 [keyword not a variable name]
+
+// var _$box'78 = 'Monika';
+ var _$box78 = 'Monika';
+
+//  var home-address = "Kochu Khat";
+ var home_address = "Kochu Khat";
+ var homeAddress = "Kochu Khat";
+
+
